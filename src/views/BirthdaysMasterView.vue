@@ -4,6 +4,6 @@ import TheWelcome from '@/components/TheWelcome.vue'
 
 <template>
   <main>
-    Home
+    Birthdays master view..
   </main>
 </template>
