@@ -1,7 +1,7 @@
 
 # Intro
 
-This is a vuue.js impl of the birthdays client ui
+This is a vue.js impl of the birthdays client ui
 
 
 ## To run
